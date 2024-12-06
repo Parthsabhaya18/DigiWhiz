@@ -1,5 +1,5 @@
 import React from "react";
-import vector from "../../public/assets/vector.png";
+import Vector from "../../public/assets/Vector.png";
 import telephone from "../../public/assets/telephone-call.png";
 import Rectangle from "../../public/assets/Rectangle.png";
 
@@ -15,7 +15,7 @@ export default function Header() {
             
             <img
               className="w-4 h-4 md:w-5 md:h-5 mr-2"
-              src={vector}
+              src={Vector}
               alt=""
             />
             <a
